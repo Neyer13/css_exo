@@ -1,0 +1,62 @@
+body {
+    font-family: exo;
+}
+
+h1,h2,h3,h4,h5 {
+    font-family: rubik;
+    color: #6128A1;
+}
+
+.header{
+text-align: center
+}
+
+.nav.nav{
+
+    background: linear-gradient(120deg,#6128a1,#e94b59);
+    padding: 30px 50px 30px 100px;
+    
+}
+
+.nav>a{
+    color : #FFFFFF;
+    font-size: 25px;
+}
+
+.nav__link{
+    margin-left: 60px;
+}
+
+.post-list>li{
+   margin: 50px 50px 50px 50px;
+   padding-right: 100px;
+   border: 1px solid;
+  padding: 20px;
+  box-shadow: 5px 10px #888888;
+
+  box-sizing: border-box;
+  
+  border: 10px solid #6128a1;
+}
+
+.post-list a{
+    background: #e94b59;
+    margin: 10px;
+    padding: 8px;
+    border-radius: 8px;
+    color: #6128a1;
+    font-size: 18px;
+    border: 2px solid #6128a1;
+
+}
+nav{
+    text-align: center;
+}
+nav a{
+    font-size: 20px;
+    margin: 15px;
+}
+img{
+    max-height: 100%;
+    max-width: 100%;
+}
